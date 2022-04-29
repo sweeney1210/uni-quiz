@@ -1,4 +1,4 @@
-/* importing google fonts */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 *{
     margin: 0;
@@ -333,4 +333,75 @@ footer button.show{
 .buttons button.quit:hover{
     color: #fff;
     background: #6BCB77;
+}
+
+.G1 {
+           transform: translate(20px, 85px) rotate(-30deg);
+       }
+
+       .e1 {
+           transform: translate(13px, 60px) rotate(-25deg);
+           color: white;
+       }
+
+       .o1 {
+           transform: translate(6px, 40px) rotate(-20deg);
+       }
+
+       .g2 {
+           transform: translate(3px, 23px) rotate(-15deg);
+           color: white;
+       }
+
+       .r1 {
+           transform: translate(2px, 14px) rotate(-10deg);
+
+       }
+
+       .a {
+           transform: translate(1px, 8px) rotate(-5deg);
+           color: white;
+       }
+
+       .p {
+           transform: translate(0px, 5px) rotate(0deg);
+       }
+
+       .h {
+           transform: translate(-1px, 8px) rotate(5deg);
+           color: white;
+       }
+
+       .y {
+           transform: translate(-2px, 14px) rotate(10deg);
+       }
+
+       .q {
+           transform: translate(-3px, 25px) rotate(15deg);
+           color: white;
+       }
+
+       .u {
+           transform: translate(-6px, 40px) rotate(20deg);
+       }
+
+       .i {
+           transform: translate(-14px, 60px) rotate(25deg);
+           color: white;
+       }
+
+       .z {
+           transform: translate(-20px, 80px) rotate(30deg);
+       }
+      .exc_mark {
+        transform: translate(-28px, 100px) rotate(35deg);
+        color: white;
+      }
+
+
+       span {
+           display: inline-block;
+       }
+.head_title {
+  color: white;
 }
